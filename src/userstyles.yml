@@ -78,6 +78,9 @@ collaborators:
   - &r58Playz
     name: r58Playz
     url: https://github.com/r58Playz
+  - &samyepik
+    name: samyepik
+    url: https://github.com/samyepik
 
 userstyles:
   advent-of-code:
@@ -375,4 +378,10 @@ userstyles:
           answer: "It is there in-case you have an OLED display. If you have one, you might want to enable this."
       current-maintainers: [*isabelroses]
       past-maintainers: [*elkrien]
+  owa:
+    name: samyepik
+    category: social
+    readme:
+      app-link: https://owa.tgm.ac.at
+      current-maintainers: [ *samyepik ]
 # yaml-language-server: $schema=https://raw.githubusercontent.com/catppuccin/userstyles/main/src/userstyles.schema.json
